@@ -51,7 +51,7 @@
        <string>select vti file</string>
       </property>
      </widget>
-     <widget class="QLabel" name="label">
+     <widget class="QLabel" name="inputFileNameLabel">
       <property name="geometry">
        <rect>
         <x>200</x>
@@ -61,7 +61,7 @@
        </rect>
       </property>
       <property name="text">
-       <string>TextLabel</string>
+       <string>file name</string>
       </property>
      </widget>
     </widget>
