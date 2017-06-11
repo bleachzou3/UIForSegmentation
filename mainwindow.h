@@ -17,6 +17,12 @@ public:
 
 private:
     Ui::MainWindow *ui;
+private slots:
+    void selectVtiFile();
+
+
+private:
+    QString inputVtiFileName;
 };
 
 #endif // MAINWINDOW_H
